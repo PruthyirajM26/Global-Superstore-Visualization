@@ -71,7 +71,7 @@ The Global Superstore dataset comprises the following columns:
 
 - Shipping Cost: Cost of shipping the order.
 
--Order Priority: Priority level of the order (e.g., High, Medium, Low).
+- Order Priority: Priority level of the order (e.g., High, Medium, Low).
 
 #### DATA VISUALIZATION
 
