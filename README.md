@@ -81,7 +81,8 @@ The Global Superstore dataset comprises the following columns:
 #### ii. Detail Report DASHBOARD
 
 <img width="575" alt="Detail Report" src="https://github.com/Pruthyiraj/demo/assets/127317318/a0c455cb-e0d5-4ab8-b6c8-ae2bdf954a9b">
-##Dashboard Insights
+
+## Dashboard Insights
 
 ### Sales and Profit Analysis
 
